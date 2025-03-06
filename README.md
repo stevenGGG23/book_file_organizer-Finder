@@ -15,14 +15,13 @@ It sorts the titles alphabetically.
 It displays the sorted book list.
 Users can enter a book title to search for its position.
 The program runs in a loop until the user inputs an empty string.
-Example Output:
-yaml
-Copy
-Edit
+
 1 : The Catcher in the Rye  
 2 : The Great Gatsby  
 3 : To Kill a Mockingbird  
+
 Enter the book title: The Great Gatsby  
 The book is at location 2  
+
 Enter the book title: Moby Dick  
-The book is not in the collection.  
+The book is not in the collection.
