@@ -11,7 +11,7 @@ Features:
 
 How It Works:
 The program reads book titles from booktitles.dat.
-It sorts the titles alphabetically.
+It sorts the titles alphabetically. 
 It displays the sorted book list.
 Users can enter a book title to search for its position.
 The program runs in a loop until the user inputs an empty string.
